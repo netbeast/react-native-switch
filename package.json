@@ -1,6 +1,6 @@
 {
   "name": "react-native-switch",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Customisable switch component for RN",
   "main": "index.js",
   "scripts": {
@@ -16,13 +16,8 @@
     "switch",
     "customisable"
   ],
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:shahen94/react-native-switch.git"
-  },
   "author": "Shahen Hovhannisyan <shahen.hovhannisyan.94@gmail.com>",
   "peerDependencies": {
-    "react-native": ">=0.29"
+    "react-native": ">=0.36"
   }
 }
